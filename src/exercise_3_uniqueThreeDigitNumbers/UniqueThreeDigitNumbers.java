@@ -1,3 +1,5 @@
+package exercise_3_uniqueThreeDigitNumbers;
+
 public class UniqueThreeDigitNumbers {
     public static void main(String[] args) {
         int count = 0;

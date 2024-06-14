@@ -1,3 +1,5 @@
+package exercise_1_multipleOf3Or;
+
 import java.util.Scanner;
 
 public class MultipleOf3Or7 {

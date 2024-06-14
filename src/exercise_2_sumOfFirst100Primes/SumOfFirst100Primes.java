@@ -1,3 +1,5 @@
+package exercise_2_sumOfFirst100Primes;
+
 public class SumOfFirst100Primes {
 
     public static void main(String[] args) {
